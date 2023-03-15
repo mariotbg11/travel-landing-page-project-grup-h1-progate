@@ -131,7 +131,8 @@ header ul {
 .destination-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
+  column-gap: 20px;
 }
 
 .destination-list .destination-image {
