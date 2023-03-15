@@ -177,9 +177,11 @@ header ul {
 .guide-section {
   padding: 0 0 150px 0;
   text-align: center;
-  height: 180px;
-  background-color: rgb(230,222,222);
-  margin-bottom:55px;
+  background-color: rgb(243, 243, 243);
+}
+
+.guide-heading h2 {
+    padding-top: 60px;
 }
 
 .guide-heading {
