@@ -61,13 +61,13 @@
   
   /*Bagian Button hero*/
    .btn-book {
-        width: 100%;
+        width: 75%;
     }
     .hero-btn {
         text-align: center;
     }
     .btn-destination {
-        width: 100%;
+        width: 75%;
         margin-top: 10px;
     }
 
