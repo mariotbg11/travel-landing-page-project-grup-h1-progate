@@ -58,6 +58,18 @@
     width: 50%;
     column-gap: 14px;
   }
+  
+  /*Bagian Button hero*/
+   .btn-book {
+        width: 100%;
+    }
+    .hero-btn {
+        text-align: center;
+    }
+    .btn-destination {
+        width: 100%;
+        margin-top: 10px;
+    }
 
   .guide-list {
     flex-direction: column;
