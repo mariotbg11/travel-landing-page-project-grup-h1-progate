@@ -114,6 +114,13 @@ header ul {
   margin-right: 12px;
 }
 
+.btn-book:active {
+  box-shadow: 0 3px #8f37c9;
+  position: relative;
+  top: 5px;
+}
+
+
 .btn-destination {
   background-color: #fff;
   color: #333;
