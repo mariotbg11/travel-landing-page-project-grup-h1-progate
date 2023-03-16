@@ -1,1 +1,80 @@
+/* *********************************** */
+/* UNTUK TABLET (1000px) */
+/* *********************************** */
+@media (max-width: 1000px) {
+  .hero-section {
+    text-align: center;
+  }
+
+  .hero-section h1 {
+    font-size: 64px;
+    font-weight: 700;
+    width: 100%;
+  }
+
+  .hero-section p {
+    padding: 0 180px;
+    width: 100%;
+  }
+
+  .destination-box {
+    width: 48%;
+    column-gap: 14px;
+  }
+
+  .guide-list {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 60px;
+  }
+
+  .guide-image {
+    width: 48%;
+  }
+}
+
+/* *********************************** */
+/* UNTUK SMARTPHONE (670px) */
+/* *********************************** */
+@media (max-width: 670px) {
+  header ul {
+    display: none;
+  }
+
+  .icon-menu {
+    display: block;
+  }
+
+  .hero-section h1 {
+    font-size: 54px;
+  }
+
+  .hero-section p {
+    padding: 0 90px;
+    width: 100%;
+  }
+
+  .destination-box {
+    width: 50%;
+    column-gap: 14px;
+  }
+
+  .guide-list {
+    flex-direction: column;
+    row-gap: 60px;
+    align-items: center;
+  }
+
+  .guide-image {
+    width: 50%;
+  }
+
+  .footer-logo {
+    margin-bottom: 40px;
+  }
+
+  .footer-container ul {
+    flex-direction: column;
+  }
+}
 
