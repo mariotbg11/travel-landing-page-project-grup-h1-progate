@@ -63,6 +63,11 @@ header ul {
   color: #fff;
 }
 
+.icon-menu {
+  display: none;
+  font-size: 28px;
+}
+
 /* *********************************** */
 /* BAGIAN HERO */
 /* *********************************** */
